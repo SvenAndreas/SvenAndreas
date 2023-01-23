@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning TypeScript and React Native  
   
 
-- 💻 I'm open to work. I wan't to add value, learn , grow professionally and have a good time.
+- 💻 Open to work.
   
 
 <br/>  
