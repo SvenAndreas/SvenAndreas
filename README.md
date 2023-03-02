@@ -7,10 +7,10 @@
 ### <div align="center">I'm Sven Andreas Clausz, a full-time fullstack developer frontend oriented👨🏻‍💻</div>  
   
 
-- 🔭 I’m currently working on [HenryGadget](https://github.com/sebasa/ecowe)  
+- 🔭 Currently working on [Ecowe](https://github.com/sebasa/ecowe)  
   
 
-- 🌱 I’m currently learning TypeScript and React Native  
+- 🌱 Learning TypeScript and React Native  
   
 
 - 💻 Open to work.
