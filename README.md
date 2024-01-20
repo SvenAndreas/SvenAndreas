@@ -10,9 +10,6 @@
 - 🔭 Currently working on [Ecowe](https://github.com/sebasa/ecowe)  
   
 
-- 🌱 Learning TypeScript and React Native  
-  
-
 - 💻 Open to work.
   
 
