@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Sven Andreas Clausz, a full-time fullstack developer frontend oriented👨🏻‍💻</div>  
+### <div align="center">I'm Sven Andreas Clausz, a fullstack developer frontend oriented👨🏻‍💻</div>  
   
 
 - 🔭 Currently working on [Ecowe](https://github.com/sebasa/ecowe)  
