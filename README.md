@@ -4,10 +4,10 @@
 </div>  
   
 
-### <div align="center">I'm Sven Andreas Clausz, a fullstack developer frontend oriented👨🏻‍💻</div>  
+### <div align="center">I'm Sven Andreas Clausz, fullstack developer👨🏻‍💻</div>  
   
 
-- 🔭 Currently working on [Ecowe](https://github.com/sebasa/ecowe)  
+- 🔭 Currently working in [Kiura](https://kiura.co)  
   
 
 - 💻 Open to work.
@@ -54,9 +54,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SvenAndreas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
