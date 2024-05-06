@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Sven Andreas Clausz, fullstack developer👨🏻‍💻</div>  
+### <div align="center">I'm Sven Andreas Clausz - fullstack developer👨🏻‍💻</div>  
   
 
 - 🔭 Currently working in [Kiura](https://kiura.co)  
